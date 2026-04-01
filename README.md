@@ -12,7 +12,7 @@ Recém-formado em Análise e Desenvolvimento de Sistemas, certificado pela Amazo
             src="https://custom-icon-badges.demolab.com/github/stars/adonysalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/adonysalves?tab=followers">
+    <a href="https://img.shields.io/github/followers/adonysalves?style=for-the-badge">           
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
