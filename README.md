@@ -1,10 +1,59 @@
-# 👩🏻‍💻Olá sou o Ádonys alves 
+<h1 align="center"> Olá sou o Ádonys alves </h1>
 
-**`Cloud Junior`**
+<p align="center">
+🎓 Recém-formado em Análise e Desenvolvimento de Sistemas <br>
+☁️ Certificado AWS Cloud Practitioner <br>
+🚀 Focado em Computação em Nuvem e arquitetura AWS <br>
+📚 Sempre aprendendo mais sobre Cloud, DevOps e boas práticas
+</p>
+<hr>
 
-Recém-formado em Análise e Desenvolvimento de Sistemas, certificado pela Amazon Web Services (AWS Cloud Practitioner). Focado em Computação em Nuvem, com conhecimentos em arquitetura básica, serviços AWS e boas práticas de infraestrutura. Busco oportunidade para atuar em projetos de Cloud e evoluir tecnicamente na área ☁️
+<div align="center">
+    <p>🤖 Linguagens de Programação e Tecnologias</p>
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" title="html"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  title="css"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" title="js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" title="typescript"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" title="react"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" title="sass"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" title="bootstrap"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" title="nodejs"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" title="postgresql"   />
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/prisma-orm.png" height="60" title="Prismaorm" alt="prismaorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" title="git"   />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  title="github"  />
+  <img width="12" />
+</div>
+<hr>
+<div align="center">
+<p>📜 Certificações</p>
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="60" alt="Aws cloud Practitioner logo" title="Aws cloud Practitioner"  />
+  <img width="12" />
+  <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" height="60" alt="Aws Restart logo"  title="Aws Restart"  />
+  <img width="12" />
+  <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" height="60" alt="Aws Cloud quest logo" title="Aws Cloud quest" />
+  <img width="12" />
+  <img src="https://scontent.frec2-1.fna.fbcdn.net/v/t1.15752-9/663059334_1240989388081783_4672942842950710354_n.png?stp=dst-png_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=yb_WTCw1naoQ7kNvwGVkPrm&_nc_oc=AdpKo1hW4Jj14FRh7-u07Uqwt6gobmWfMeYWlbHeIknyCdomqMPyMuuaiHw0FN9w7I4&_nc_ad=z-m&_nc_cid=1138&_nc_zt=23&_nc_ht=scontent.frec2-1.fna&_nc_ss=7a32e&oh=03_Q7cD5AHCr75OWTBk-fMGk8EEnXnBORAH3rmde2U9yw9QPPCMpw&oe=69F6090C" height="60" alt="AWS GenAI Practitioner
+ logo" title="AWS GenAI Practitioner
+"   />
+  <img width="12" />
+  <img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="60" alt="Introduction to Cybersecurity logo" title="Introduction to Cybersecurity"   />
+  <img width="12" />
 
-<p align="left">
+<hr>
+
+<p align="center">
     <a href="https://github.com/adonysalves?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -12,6 +61,7 @@ Recém-formado em Análise e Desenvolvimento de Sistemas, certificado pela Amazo
             src="https://custom-icon-badges.demolab.com/github/stars/adonysalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+     🤷‍♂️
     <a href="https://img.shields.io/github/followers/adonysalves?style=for-the-badge">           
         <img 
             alt="Seguidores" 
@@ -22,94 +72,10 @@ Recém-formado em Análise e Desenvolvimento de Sistemas, certificado pela Amazo
 </p>
 
 ---
+###
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adonysalves&theme=dayfox&hide_border=falso&locale=pt_BR&short_numbers=falso&mode=weekly&card_height=177" alt="GitHub Streak" /></a>
+ 
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
