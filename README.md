@@ -75,7 +75,11 @@
 ###
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adonysalves&theme=dayfox&hide_border=falso&locale=pt_BR&short_numbers=falso&mode=weekly&card_height=177" alt="GitHub Streak" /></a>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adonysalves/adonysalves/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adonysalves/adonysalves/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adonysalves/adonysalves/output/pacman-contribution-graph.svg">
+</picture>
  
 </div>
 
