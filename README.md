@@ -56,21 +56,16 @@
 <hr>
 
 <p align="center">
-    <a href="https://github.com/adonysalves?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/adonysalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+   <a href="https://github.com/adonysalves?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://img.shields.io/github/stars/adonysalves?style=for-the-badge&label=Estrelas&logo=github&color=55960c&labelColor=488207"
+    />
+</a>
      🤷‍♂️
-    <a href="https://img.shields.io/github/followers/adonysalves?style=for-the-badge">           
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/adonysalves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img src="https://img.shields.io/github/followers/adonysalves?style=for-the-badge&label=Seguidores&logo=github&color=236ad3&labelColor=1155ba" />
+
 </p>
 
 ---
