@@ -34,8 +34,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" title="git"   />
   <img width="12" />
-      <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  title="github"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  title="github"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="60" alt="PhotoShop"  title="PhotoShop"  /> 
+  <img width="12" />
+  
 </div>
 <hr>
 <div align="center">
