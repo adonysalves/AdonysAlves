@@ -18,15 +18,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" title="js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" title="typescript"   />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" title="nodejs"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" title="react"   />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="60" alt="PhotoShop"  title="PhotoShop"  /> 
+  <img width="12" />
+  <!--<img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" title="typescript"   />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" title="react"   
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" title="sass"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" title="bootstrap"   />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" title="nodejs"   />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" title="bootstrap"   />/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" title="postgresql"   />
   <img width="12" />
@@ -35,9 +37,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" title="git"   />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  title="github"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="60" alt="PhotoShop"  title="PhotoShop"  /> 
-  <img width="12" />
+  <img width="12" /> -->
+  
   
 </div>
 <hr>
