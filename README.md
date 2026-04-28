@@ -56,6 +56,11 @@
   <img width="12" />
   <img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="60" alt="Introduction to Cybersecurity logo" title="Introduction to Cybersecurity"   />
   <img width="12" />
+    <img src="https://images.credly.com/size/340x340/images/7bf55491-f0df-488f-84bf-4d51ada45316/blob" height="60" alt="Introduction to Cybersecurity logo" title="Introduction to Cybersecurity"   />
+  <img width="12" />
+
+  
+
 
 <hr>
 
