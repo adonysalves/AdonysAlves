@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" height="60" alt="Aws Cloud quest logo" title="Aws Cloud quest" />
   <img width="12" />
-  <img src="https://scontent.frec2-1.fna.fbcdn.net/v/t1.15752-9/663059334_1240989388081783_4672942842950710354_n.png?stp=dst-png_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=yb_WTCw1naoQ7kNvwGVkPrm&_nc_oc=AdpKo1hW4Jj14FRh7-u07Uqwt6gobmWfMeYWlbHeIknyCdomqMPyMuuaiHw0FN9w7I4&_nc_ad=z-m&_nc_cid=1138&_nc_zt=23&_nc_ht=scontent.frec2-1.fna&_nc_ss=7a32e&oh=03_Q7cD5AHCr75OWTBk-fMGk8EEnXnBORAH3rmde2U9yw9QPPCMpw&oe=69F6090C" height="60" alt="AWS GenAI Practitioner
+  <img src="https://github.com/user-attachments/assets/6f8ae5a2-8be0-4971-864f-4fa131c00559" height="60" alt="AWS GenAI Practitioner
  logo" title="AWS GenAI Practitioner
 "   />
   <img width="12" />
@@ -59,7 +59,6 @@
     <img src="https://images.credly.com/size/340x340/images/7bf55491-f0df-488f-84bf-4d51ada45316/blob" height="60" alt="Cisco Networking Academy Learn-A-Thon 2026" title="Cisco Networking Academy Learn-A-Thon 2026"   />
   <img width="12" />
 
-  
 
 
 <hr>
